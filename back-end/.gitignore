@@ -1,0 +1,21 @@
+/backend/settingsdbconnect.json
+/backend/node_modules
+../cli-client/node_modules
+../frontend/node_modules
+
+howToPushToGithub.txt
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+/node_modules
+/src/resources/static/assets/uploads
+git_giannis.txt
+
+
